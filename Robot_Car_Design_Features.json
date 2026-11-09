@@ -1,0 +1,72 @@
+{
+  "parts": [
+    {
+      "part": "Stepped Front Chassis",
+      "features": [
+        "The front chassis is lowered by 10 mm relative to the main chassis.",
+        "An integrated vertical wall connects the two levels without a separate suspension or hanging platform.",
+        "Six 4 mm through holes in the wall provide small wire passages and remove material."
+      ]
+    },
+    {
+      "part": "Front Breadboard Mount",
+      "features": [
+        "The breadboard is mounted transversely across the lowered front chassis.",
+        "A 0.8 mm recess, side guides, and a rear stop help locate the board.",
+        "Adhesive mounting is supplemented by backup strap slots.",
+        "Openings retain supporting rails and crossmembers while reducing material."
+      ]
+    },
+    {
+      "part": "Shaped Front Fairing",
+      "features": [
+        "The fairing extends 8 mm beyond the original nose and is 90 mm wide.",
+        "Its curved side profile is approximated with short facets.",
+        "A nominal 1.5 mm vertical shell thickness and open underside limit added material.",
+        "The rear of the fairing rises 4 mm above its local chassis top."
+      ]
+    },
+    {
+      "part": "Raised Arduino Frame",
+      "features": [
+        "The removable frame remains horizontal and is shifted 18 mm toward the center of the car.",
+        "Four separate hollow slanted supports connect original chassis mounting points to four distinct frame mounting points.",
+        "The frame includes weight relief windows, mounting seats, and backup strap slots.",
+        "Support projections avoid the defined motor mounting slots and power-switch opening."
+      ]
+    },
+    {
+      "part": "Battery Placement",
+      "features": [
+        "The battery sits low in the rear chassis area.",
+        "The design reserves a 61.5 by 60 mm battery footprint based on existing dimensions and allowances.",
+        "Dedicated mounting holes and backup strap slots provide attachment options.",
+        "Battery and controller share the rear footprint at different heights."
+      ]
+    },
+    {
+      "part": "Motor, Switch, and Wiring Features",
+      "features": [
+        "Dedicated T-bar slots define the motor mounting interfaces.",
+        "A 9 by 15 mm opening locates the power switch.",
+        "Six 3 mm wire passages are positioned near the switch.",
+        "The motor mounting region retains the specified 2.5 mm chassis thickness."
+      ]
+    },
+    {
+      "part": "Lightweight Chassis Structure",
+      "features": [
+        "Symmetric openings are distributed across selected chassis and frame regions.",
+        "Perimeter rails, crossmembers, screw lands, and functional mounting areas are retained.",
+        "The intended chassis remains one connected rigid body despite its two levels."
+      ]
+    },
+    {
+      "part": "Rear Castor Mount",
+      "features": [
+        "Four mounting holes are reserved for direct castor attachment.",
+        "No additional castor spacer is generated in the current design."
+      ]
+    }
+  ]
+}
